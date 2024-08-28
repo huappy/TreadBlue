@@ -12,10 +12,13 @@ git clone https://github.com/huappy/TreadBlue.git
 ```
 
 2. Install Dependencies:
-Enter the repository in your terminal and then use the following command.
+Enter the repository in your terminal and then use one of the following commands.
+```bash
+pip3 install -r requirements.txt
+```
+
 ```bash
 pip install -r requirements.txt
-
 ```
 
 ## Usage
